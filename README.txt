@@ -1,5 +1,7 @@
 [Projet créé par Alicia BEGUIN, Kévin FRICK, Florentin GELOEN et Marwane KADRI, de classe CPI1-03]
 
+mai 2020 - juin 2020
+
 Pour démarrer le programme :
 
 - Sur Windows :
